@@ -1,1 +1,1 @@
-{"versionCode":37,"versionName":"2.8.0","changes":"1. 全新的应用图标\n2. 更新安装完成后自动删除旧安装包，不再占空间\n3. 抖音识别仍直接显示标题、作者、时长、点赞数\n4. 画质仍支持最高 / 1080p","urls":["https://github.com/jx0529/vd-updates/releases/latest/download/vd.apk"],"note":"update 2.8.0"}
+{"versionCode":38,"versionName":"2.9.0","changes":"1. 抖音识别修好：显示标题、作者、时长、点赞数\n2. 解析只取关键数据，识别更快更稳\n3. 下载文件统一放进「视频下载器」文件夹\n4. 画质仍支持最高 / 1080p","urls":["https://github.com/jx0529/vd-updates/releases/latest/download/vd.apk"],"note":"update 2.9.0"}
